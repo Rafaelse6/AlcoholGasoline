@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlcoolGasolinaPratica</string>
+    <string name="tv_information">Saiba a melhor opção de abastecimento do seu carro !</string>
+    <string name="app_logo">Logo</string>
+    <string name="txt_alcool_price">Preço do álcool. Ex: 1.90</string>
+    <string name="txt_gas_price">Preço da gasolina. Ex: 2.60</string>
+    <string name="txt_calcular">Calcular</string>
+    <string name="txt_app_result">Aqui aparecerá o resultado</string>
+    <string name="hint_gasolina">Preço da gasolina. Ex: 2.60</string>
+    <string name="hint_alcool">Preço do álcool. Ex: 1.90</string>
+</resources>
